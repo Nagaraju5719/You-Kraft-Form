@@ -1,0 +1,26 @@
+body {
+  height: 100vh;
+  margin: 0;
+}
+.container {
+  background-image: url("https://img.freepik.com/free-vector/gradient-black-backgrounds-with-golden-frames_23-2149150610.jpg?w=1380&t=st=1665043833~exp=1665044433~hmac=e80abb4162372be191c2583772d80e5349ca2a5b4b03f160c330b779b85083b2");
+  background-size: cover;
+  height: 100vh;
+}
+.borderStyle {
+  margin-bottom: 30px;
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 20px white;
+  background-color: white;
+}
+.headerStyle {
+  background-color: white;
+  padding: 10px 30px;
+}
+.dataContainer{
+    background-color: rgb(181, 183, 183);
+    padding: 30px;
+    border-radius: 10px;
+}
+
